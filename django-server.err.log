@@ -1,0 +1,24 @@
+[08/May/2026 18:11:54] "GET / HTTP/1.1" 200 839
+[08/May/2026 18:11:54] "GET /static/styles.css?v=truck-design-2 HTTP/1.1" 304 0
+[08/May/2026 18:11:54] "GET /static/app.js?v=truck-design-2 HTTP/1.1" 304 0
+[08/May/2026 18:11:57] "POST /api/plan/ HTTP/1.1" 200 5018
+[08/May/2026 18:12:07] "POST /api/plan/ HTTP/1.1" 200 23124
+Internal Server Error: /api/plan/
+[08/May/2026 18:12:12,922] - Broken pipe from ('127.0.0.1', 53922)
+[08/May/2026 18:13:08] "POST /api/plan/ HTTP/1.1" 200 7460
+[08/May/2026 18:14:01] "POST /api/plan/ HTTP/1.1" 200 12319
+[08/May/2026 18:14:42] "GET / HTTP/1.1" 200 839
+[08/May/2026 18:14:42] "GET /static/styles.css?v=truck-design-2 HTTP/1.1" 200 17239
+[08/May/2026 18:14:42] "GET /static/app.js?v=truck-design-2 HTTP/1.1" 200 22195
+[08/May/2026 18:14:44] "POST /api/plan/ HTTP/1.1" 200 5018
+[08/May/2026 18:14:46] "POST /api/plan/ HTTP/1.1" 200 5018
+[08/May/2026 18:16:49] "GET / HTTP/1.1" 200 839
+[08/May/2026 18:16:49] "GET /static/styles.css?v=truck-design-2 HTTP/1.1" 200 17434
+[08/May/2026 18:16:49] "GET /static/app.js?v=truck-design-2 HTTP/1.1" 200 22471
+[08/May/2026 18:16:51] "POST /api/plan/ HTTP/1.1" 200 5018
+[08/May/2026 18:16:54] "POST /api/plan/ HTTP/1.1" 200 5018
+[08/May/2026 18:17:15] "GET / HTTP/1.1" 200 839
+[08/May/2026 18:17:15] "GET /static/styles.css?v=truck-design-2 HTTP/1.1" 200 17434
+[08/May/2026 18:17:16] "GET /static/app.js?v=truck-design-2 HTTP/1.1" 200 22471
+[08/May/2026 18:17:17] "POST /api/plan/ HTTP/1.1" 200 5018
+[08/May/2026 18:17:31] "POST /api/plan/ HTTP/1.1" 200 13043
